@@ -19,7 +19,7 @@ When logged into a secure portal (e.g., Workday, SAP, or a custom HR portal), yo
 The script targets a specific URL pattern:
 - **Base URL:** `https://abcd.com/v3/api/rol/stip/`
 - **ID Range:** `233` to `275`
-- **Suffix:** `/dowload`
+- **Suffix:** `/download`
  
 ## 🔒 Security & Privacy
 * **Privacy:** This repository contains **no personal data**. The script is a generic template.
