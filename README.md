@@ -17,11 +17,9 @@ When logged into a secure portal (e.g., Workday, SAP, or a custom HR portal), yo
  
 ## ⚙️ Configuration
 The script targets a specific URL pattern:
-- **Base URL:** `https://abcd.com/v3/api/rol/stip/`
+- **Base URL:** `https://sampleurl.com/v3/api/month/payslip/1234/`
 - **ID Range:** `233` to `275`
 - **Suffix:** `/download`
  
 ## 🔒 Security & Privacy
 * **Privacy:** This repository contains **no personal data**. The script is a generic template.
-* **.gitignore:** A `.gitignore` file is included to ensure that any downloaded `.pdf` files are never accidentally committed to version control.
- 
