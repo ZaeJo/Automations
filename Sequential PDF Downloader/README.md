@@ -8,7 +8,7 @@ When logged into a secure portal (e.g., Workday, SAP, or a custom HR portal), yo
 ## 🛠️ Usage
  
 1. **Login:** Log into the portal where your files are hosted.
-2. **Configure:** Update the `baseUrl`, `start`, and `end` variables in `downloader.js` to match your target.
+2. **Configure:** Update the `baseUrl`, `start`, and `end` variables in `BurstDownload.js` to match your target.
 3. **Open Console:** Press `F12` (or `Ctrl+Shift+K` in Firefox) to open the Web Console.
 4. **Paste & Run:** Copy the code from `BurstDownload.js`, paste it into the console, and hit **Enter**.
  
